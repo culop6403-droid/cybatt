@@ -1,0 +1,17 @@
+{
+  "name": "Cy-Batt Player",
+  "short_name": "Cy-Batt",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme-color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/music_note/default/48px.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
